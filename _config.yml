@@ -1,6 +1,6 @@
 name: Ryan Crozier
 favicon: null
-layout_spectrum: 0.3169416459277272
+layout_spectrum: 0.208
 typography_spectrum: 0.6661607220303267
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.7012968484777957
+  brandStrength: 0.5
   lightness: 0.929993853205815
-  saturation: 0.9517024538945407
-  rhythmicContrast: 0.5029875633772463
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
