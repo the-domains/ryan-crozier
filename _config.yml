@@ -1,19 +1,4 @@
-name: Ryan Crozier
-favicon: null
-layout_spectrum: 0.208
 typography_spectrum: 0.6661607220303267
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -25,4 +10,20 @@ color:
   lightness: 0.929993853205815
   saturation: 0.75
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.208
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Ryan Crozier
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Ryan Crozier
 purpose: []
